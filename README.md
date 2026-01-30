@@ -90,22 +90,11 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-  ![Kaustav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zapperer04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zapperer04&layout=compact&theme=tokyonight&hide_border=true)
-  
+ 
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zapperer04&theme=tokyonight&hide_border=true)
   
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-  ![trophy](https://github-profile-trophy.vercel.app/?username=Zapperer04&theme=tokyonight&no-frame=true&row=1&column=7)
-  
-</div>
 
 ## 📈 Contribution Graph
 
@@ -137,9 +126,6 @@
   
   ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
   
-  ### 👀 Profile Views
-  
-  ![Visitor Count](https://profile-counter.glitch.me/Zapperer04/count.svg)
   
   **⭐ From [Zapperer04](https://github.com/Zapperer04) with ❤️**
   
