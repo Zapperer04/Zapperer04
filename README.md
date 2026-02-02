@@ -31,6 +31,8 @@
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
@@ -61,14 +63,21 @@
 
 ---
 
-### 👨‍⚕️ Doctor's Day Planner
+### 🐐 [Goat Repo Finder](https://github.com/Zapperer04/Goat-Repo-Finder)
+> Web application helping developers discover high-quality "hidden gem" repositories on GitHub. Features smart search, categorized browsing, and PWA capabilities for discovering underrated but powerful development tools.
+
+**Tech:** React.js, Node.js, Express.js, GitHub API, Workbox
+
+---
+
+### 👨‍⚕️ [Doctor's Day Planner](https://github.com/Zapperer04/Doctor-s-Day-Planner)
 > Productivity-focused web platform empowering doctors to efficiently manage schedules, reminders, and daily task coordination for better patient care.
 
 **Tech:** HTML, CSS, JavaScript, SQL
 
 ---
 
-### 🍋 Little Lemon Restaurant — Mobile UX/UI Design
+### 🍋 [Little Lemon Restaurant](https://github.com/Zapperer04/Little-Lemon-Restaurant) — Mobile UX/UI Design
 > Mobile reservation flow designed using heuristic evaluation, atomic design principles, and scalable design systems. Benchmarked against industry standards to optimize user experience.
 
 **Tech:** Figma, UI/UX Design, Usability Testing
@@ -91,7 +100,7 @@
 
 <div align="center">
  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zapperer04&theme=tokyonight&hide_border=true)
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=Zapperer04&theme=tokyonight&hide_border=true)
   
 </div>
 
