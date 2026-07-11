@@ -13,7 +13,7 @@
 
 ## 👋 About Me
 
-- 🎓 **IT Engineering Student** @ Manipal University Jaipur (GPA: 8.18/10)  
+- 🎓 **IT Engineering Student** @ Manipal University Jaipur (GPA: 8.27/10)  
 - 💼 **Ex ML & UI/UX Intern** @ Vodafone Idea Pvt. Ltd.  
 - 💼 **Industry Trainee (Salesforce Track)** @ **PwC** – exploring cloud CRM, flows & enterprise-grade solutions  
 - 🏆 **Published Patent Holder** – *Bhoomi-Mitra*: Farmer–Contractor Marketplace (India)  
